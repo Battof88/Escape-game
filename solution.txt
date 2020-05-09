@@ -1,0 +1,11 @@
+//--------------------------Solution pour les nuls--------------------------\\
+
+Dans le cas où vous n'arrivez pas à finir le jeu, voici ce qu'il faut faire:
+- cliquez sur la clé à côté de la porte de sortie (EXIT)
+- ouvrez le meuble en cliquant d'abord sur la clé de votre inventaire et ensuite sur le meuble verouillé
+- cliquez sur la bobine pour l'ajouter à votre inventaire et regardez le schéma
+- cliquez sur la bobine de votre inventaire et ensuite sur le panneau électrique tout à droite
+- faites correspondre les numéros affichés sur la télé avec les couleurs du mot EXIT
+et tapez le code correspondant sur le digicode.
+
+VOUS AVEZ FINI LE JEU !!! BRAVO !!!
