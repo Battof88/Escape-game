@@ -33,7 +33,6 @@ interactions = {
         }
         else{
             console.log("mauvais code...");
-            code = "";
             return "Vous n'avez pas trouvé le bon code, réessayez."
         }
     }
